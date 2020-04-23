@@ -1,0 +1,10 @@
+CREATE TABLE Users(
+name VARCHAR(128),
+email VARCHAR(128) 
+)
+INSERT INTO Users(name,email)VALUES('jatin','j@gmail.com')
+DELETE FROM Users where email='fce'
+UPDATE Users set name='prince' WHERE email='j@gmail.com'
+SELECT * FROM Users ORDER by name
+SELECT * FROM Users ORDER by email
+SELECT * FROM Users
