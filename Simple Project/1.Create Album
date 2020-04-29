@@ -1,0 +1,6 @@
+CREATE TABLE "Album" (
+	"id"	INTEGER NOT NULL UNIQUE,
+	"Artist_id"	INTEGER,
+	"title"	TEXT,
+	PRIMARY KEY("id" AUTOINCREMENT)
+);
