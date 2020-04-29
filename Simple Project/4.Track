@@ -1,0 +1,9 @@
+CREATE TABLE "Track" (
+	"id"	INTEGER NOT NULL UNIQUE,
+	"title"	TEXT album_id INTEGER,
+	"genre_id"	INTEGER,
+	"len"	INTEGER,
+	"rating"	INTEGER,
+	"count"	INTEGER,
+	PRIMARY KEY("id" AUTOINCREMENT)
+);
