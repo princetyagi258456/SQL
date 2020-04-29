@@ -1,0 +1,5 @@
+CREATE TABLE "Artist" (
+	"id"	INTEGER NOT NULL,
+	"name"	TEXT,
+	PRIMARY KEY("id" AUTOINCREMENT)
+);
