@@ -1,0 +1,6 @@
+CREATE TABLE "Member" (
+	"user_id"	INTEGER,
+	"COURSE_id"	INTEGER role INTEGER,
+	"role"	INTEGER,
+	PRIMARY KEY("user_id","COURSE_id")
+);
