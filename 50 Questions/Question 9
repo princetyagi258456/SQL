@@ -1,0 +1,3 @@
+What is a join?
+
+This is a keyword used to query data from more tables based on the relationship between the fields of the tables. Keys play a major role when JOINs are used.
