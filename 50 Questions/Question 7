@@ -1,0 +1,7 @@
+7. What is a unique key?
+
+A Unique key constraint uniquely identified each record in the database. This provides uniqueness for the column or set of columns.
+
+A Primary key constraint has automatic unique constraint defined on it. But not, in the case of Unique Key.
+
+There can be many unique constraint defined per table, but only one Primary key constraint defined per table.
