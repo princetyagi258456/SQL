@@ -1,0 +1,3 @@
+6. What is a primary key?
+
+A primary key is a combination of fields which uniquely specify a row. This is a special kind of unique key, and it has implicit NOT NULL constraint. It means, Primary key values cannot be NULL.
