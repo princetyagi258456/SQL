@@ -1,0 +1,12 @@
+5. What are tables and Fields?
+
+A table is a set of data that are organized in a model with Columns and Rows. Columns can be categorized as vertical, and Rows are horizontal. A table has specified number of column called fields but can have any number of rows which is called record.
+
+Example:.
+
+Table: Employee.
+
+
+Field: Emp ID, Emp Name, Date of Birth.
+
+Data: 201456, David, 11/15/1960.
