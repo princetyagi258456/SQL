@@ -1,0 +1,3 @@
+8. What is a foreign key?
+
+A foreign key is one table which can be related to the primary key of another table. Relationship needs to be created between two tables by referencing foreign key with the primary key of another table.
