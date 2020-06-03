@@ -1,0 +1,5 @@
+3. What is SQL?
+
+SQL stands for Structured Query Language , and it is used to communicate with the Database. This is a standard language used to perform tasks such as retrieval, updation, insertion and deletion of data from a database.
+
+Standard SQL Commands are Select.
