@@ -1,0 +1,3 @@
+ What is normalization?
+
+Normalization is the process of minimizing redundancy and dependency by organizing fields and table of a database. The main aim of Normalization is to add, delete or modify field that can be made in a single table.
