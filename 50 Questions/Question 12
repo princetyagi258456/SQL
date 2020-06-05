@@ -1,0 +1,3 @@
+What is Denormalization.
+
+DeNormalization is a technique used to access the data from higher to lower normal forms of database. It is also process of introducing redundancy into a table by incorporating data from the related tables.
