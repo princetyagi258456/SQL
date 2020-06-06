@@ -1,0 +1,3 @@
+What is subquery?
+
+A subquery is a query within another query. The outer query is called as main query, and inner query is called subquery. SubQuery is always executed first, and the result of subquery is passed on to the main query.
