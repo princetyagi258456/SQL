@@ -1,0 +1,10 @@
+ What is a constraint?
+
+Constraint can be used to specify the limit on the data type of table. Constraint can be specified while creating or altering the table statement. Sample of constraint are.
+
+NOT NULL.
+CHECK.
+DEFAULT.
+UNIQUE.
+PRIMARY KEY.
+FOREIGN KEY.
