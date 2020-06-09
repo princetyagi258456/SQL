@@ -1,0 +1,5 @@
+What is Auto Increment?
+
+Auto increment keyword allows the user to create a unique number to be generated when a new record is inserted into the table. AUTO INCREMENT keyword can be used in Oracle and IDENTITY keyword can be used in SQL SERVER.
+
+Mostly this keyword can be used whenever PRIMARY KEY is used.
