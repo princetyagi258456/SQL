@@ -1,0 +1,5 @@
+ What is the difference between Cluster and Non-Cluster Index?
+
+Clustered index is used for easy retrieval of data from the database by altering the way that the records are stored. Database sorts out rows by the column which is set to be clustered index.
+
+A nonclustered index does not alter the way it was stored but creates a complete separate object within the table. It point back to the original table rows after searching.
