@@ -1,0 +1,3 @@
+ What is data Integrity?
+
+Data Integrity defines the accuracy and consistency of data stored in a database. It can also define integrity constraints to enforce business rules on the data when it is entered into the application or database.
