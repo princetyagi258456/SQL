@@ -1,0 +1,5 @@
+ What is the difference between DELETE and TRUNCATE commands?
+
+DELETE command is used to remove rows from the table, and WHERE clause can be used for conditional set of parameters. Commit and Rollback can be performed after delete statement.
+
+TRUNCATE removes all rows from the table. Truncate operation cannot be rolled back.
