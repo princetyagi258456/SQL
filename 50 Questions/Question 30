@@ -1,0 +1,5 @@
+ What is a trigger?
+
+A DB trigger is a code or programs that automatically execute with response to some event on a table or view in a database. Mainly, trigger helps to maintain the integrity of the database.
+
+Example: When a new student is added to the student database, new records should be created in the related tables like Exam, Score and Attendance tables.
