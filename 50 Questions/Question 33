@@ -1,0 +1,3 @@
+What is a stored procedure?
+
+Stored Procedure is a function consists of many SQL statement to access the database system. Several SQL statements are consolidated into a stored procedure and execute them whenever and wherever required.
