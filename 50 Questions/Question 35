@@ -1,0 +1,3 @@
+What is Datawarehouse?
+
+Datawarehouse is a central repository of data from multiple sources of information. Those data are consolidated, transformed and made available for the mining and online processing. Warehouse data have a subset of data called Data Marts.
