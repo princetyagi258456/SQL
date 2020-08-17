@@ -1,0 +1,5 @@
+ What is collation?
+
+Collation is defined as set of rules that determine how character data can be sorted and compared. This can be used to compare A and, other language characters and also depends on the width of the characters.
+
+ASCII value can be used to compare these character data.
