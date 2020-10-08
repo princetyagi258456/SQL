@@ -1,0 +1,7 @@
+What are joins in SQL?
+A JOIN clause is used to combine rows from two or more tables, based on a related column between them. It is used to merge two tables or retrieve data from there. There are 4 joins in SQL namely:
+
+Inner Join
+Right Join
+Left Join
+Full Join
