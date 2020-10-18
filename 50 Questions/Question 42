@@ -1,0 +1,8 @@
+The SQL DROP TABLE statement is used to remove a table definition and all the data, indexes, triggers, constraints and permission specifications for that table.
+
+NOTE − You should be very careful while using this command because once a table is deleted then all the information available in that table will also be lost forever.
+
+Syntax
+The basic syntax of this DROP TABLE statement is as follows −
+
+DROP TABLE table_name;
